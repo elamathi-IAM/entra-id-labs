@@ -11,7 +11,7 @@ The objective is to strengthen hands-on skills in Identity and Access Management
 |---|---|---|
 | 01 | [User Creation and Management](lab-01-user-management/) | Completed |
 | 02 | [Security Groups and Membership](lab-02-security-groups/) | Completed |
-| 03 | Role-Based Access Control (RBAC) | Planned |
+| 03 | [Role-Based Access Control (RBAC)](lab-03-rbac/) | Completed |
 | 04 | Joiner, Mover and Leaver (JML) | Planned |
 | 05 | Enterprise Application Integration | Planned |
 | 06 | MFA and Conditional Access | Planned |
